@@ -7,4 +7,4 @@ hello git!
 hello git!
 hello git!
 hello git! master_test
-hello git! 
+hello git! hot-fix_test2
