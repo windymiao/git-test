@@ -9,3 +9,4 @@ hello git!
 hello git! master_test
 hello git! hot-fix_test2
 GitHub commit test
+GitHub ssh commit test
